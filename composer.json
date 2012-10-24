@@ -17,7 +17,7 @@
         "doctrine/dbal": ">=2.0"
     },
     "autoload": {
-        "psr-0": { "BeSimple\\BeSimpleDoctrineTypesBundle": "" }
+        "psr-0": { "BeSimple\\DoctrineTypesBundle": "" }
     },
     "target-dir": "BeSimple/BeSimpleDoctrineTypesBundle"
 }
