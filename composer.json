@@ -4,7 +4,7 @@
     "description": "",
     "keywords": ["doctrine", "Symfony2", "BeSimpleDoctrineTypesBundle"],
     "homepage": "https://github.com/BeSimple/BeSimpleDoctrineTypesBundle",
-    "licence": "MIT",
+    "license": "MIT",
     "authors": [
         {
             "name": "Francis Besset",
