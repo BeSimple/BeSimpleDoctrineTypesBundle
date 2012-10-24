@@ -19,5 +19,5 @@
     "autoload": {
         "psr-0": { "BeSimple\\DoctrineTypesBundle": "" }
     },
-    "target-dir": "BeSimple/BeSimpleDoctrineTypesBundle"
+    "target-dir": "BeSimple/DoctrineTypesBundle"
 }
